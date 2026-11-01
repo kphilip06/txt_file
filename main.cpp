@@ -3,5 +3,7 @@
 #include "src/factorial.hpp"
 
 int main() {
-  std::cout << "The factorial of 5 is " << factorial(5) << std::endl;
+  file_system fs;
+  fs.open_content("tests/test2");
+  return 0;
 }

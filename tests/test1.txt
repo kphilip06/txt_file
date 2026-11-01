@@ -1,0 +1,3 @@
+Apple, apple BANANA!
+High-quality code generates high-quality results.
+A simple test, for a simple system.
